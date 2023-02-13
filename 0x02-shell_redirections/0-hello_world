@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-printf ("Hello, World/n")
-=======
-printf ("Hello, World/n");
->>>>>>> d2bdc17021a1876883568444ac00bd8600e5ce29
+echo "Hello, World"
